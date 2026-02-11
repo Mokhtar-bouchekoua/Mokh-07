@@ -7,13 +7,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/mokhtar-bouchekoua-084267248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mokhtarbouchekoua@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+21622424434"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mokh-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Mokh-07?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Mokh-07?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=mokhtar-bouchekoua&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mokhtar-bouchekoua?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mokhtar-bouchekoua?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 ---
@@ -153,7 +152,7 @@ Sfax, Tunisia
 <tr>
 <td width="50%">
 
-### 🅿️ [FacPark - Smart Parking System](https://github.com/Mokh-07/FacPark)
+### 🅿️ [FacPark - Smart Parking System](https://github.com/mokhtar-bouchekoua/FacPark)
 Intelligent university parking management system with AI-powered license plate recognition.
 
 **Highlights:**
@@ -164,12 +163,12 @@ Intelligent university parking management system with AI-powered license plate r
 
 **Stack:** `Python` `FastAPI` `React` `YOLOv11` `LangChain` `MySQL`
 
-![Stars](https://img.shields.io/github/stars/Mokh-07/FacPark?style=social)
+![Stars](https://img.shields.io/github/stars/mokhtar-bouchekoua/FacPark?style=social)
 
 </td>
 <td width="50%">
 
-### 💊 [Paramedics BI Dashboard](https://github.com/Mokh-07/paramedics-bi-dashboard)
+### 💊 [Paramedics BI Dashboard](https://github.com/mokhtar-bouchekoua/paramedics-bi-dashboard)
 AI-powered BI dashboard for financial analysis and receivables optimization.
 
 **Highlights:**
@@ -180,26 +179,12 @@ AI-powered BI dashboard for financial analysis and receivables optimization.
 
 **Stack:** `Streamlit` `Groq` `Plotly` `LangChain` `Python`
 
-![Stars](https://img.shields.io/github/stars/Mokh-07/paramedics-bi-dashboard?style=social)
+![Stars](https://img.shields.io/github/stars/mokhtar-bouchekoua/paramedics-bi-dashboard?style=social)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🚗 SmartALPR - Tunisian License Plate Recognition
-AI system for automatic reading of Tunisian plates via Computer Vision, OCR and LLM/RAG.
-
-**Highlights:**
-- YOLOv8 for detection
-- Custom EasyOCR (Arabic + Latin)
-- RAG for contextual search
-- Real-time FastAPI
-
-**Stack:** `YOLOv8` `EasyOCR` `FastAPI` `LangChain` `Python`
-
-</td>
 <td width="50%">
 
 ### 🤖 IoT Anomaly Detection System
@@ -216,9 +201,6 @@ Real-time IoT anomaly detection system for autonomous vehicles.
 **Stack:** `FastAPI` `Angular` `MQTT` `Firebase` `PyTorch`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🚁 Smart Agricultural Drone
@@ -235,6 +217,9 @@ Drone with NPK 7-in-1 sensor and Android app for soil analysis.
 **Stack:** `Arduino` `Android Studio` `Flutter` `C`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🛒 Allo Fruit - E-commerce Platform
@@ -249,12 +234,25 @@ Complete online sales platform with full management.
 **Stack:** `Laravel` `React` `MySQL` `Tailwind CSS`
 
 </td>
+<td width="50%">
+
+### 📊 Business Intelligence Dashboard
+Decision dashboards with advanced analytics.
+
+**Highlights:**
+- AdventureWorks database integration
+- Interactive data visualizations
+- Real-time reporting
+- KPI tracking
+
+**Stack:** `Power BI` `SQL Server` `Python`
+
+</td>
 </tr>
 </table>
 
 ### 📦 Other Projects
 
-- **📊 BI Dashboard** - Decision dashboards with AdventureWorks
 - **🎨 JavaFX Drawing App** - Drawing and shape manipulation application
 - **📚 E-learning Platform** - Course and user management (ASP.NET + React)
 - **💼 Various Full Stack Projects** - Laravel, React, Angular, ASP.NET
@@ -264,16 +262,16 @@ Complete online sales platform with full management.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mokh-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mokh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mokhtar-bouchekoua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokhtar-bouchekoua&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokh-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtar-bouchekoua&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mokh-07&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mokhtar-bouchekoua&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -384,9 +382,6 @@ I'm always open to innovative projects, collaborations, and professional opportu
   <a href="mailto:mokhtarbouchekoua@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="tel:+21622424434">
-    <img src="https://img.shields.io/badge/Phone-Call_Me-green?style=for-the-badge&logo=whatsapp" />
-  </a>
 </p>
 
 ### 💬 Ask me about:
@@ -410,7 +405,7 @@ I'm always open to innovative projects, collaborations, and professional opportu
 
 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 
-⭐ From [Mokh-07](https://github.com/Mokh-07) with ❤️
+⭐ From [mokhtar-bouchekoua](https://github.com/mokhtar-bouchekoua) with ❤️
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Built with AI](https://img.shields.io/badge/Built%20with-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
