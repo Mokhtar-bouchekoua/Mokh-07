@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Mokhtar+Bouchekoua;Machine+Learning+Engineer;AI+%26+Data+Science+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Mokhtar+Bouchekoua;Machine+Learning+Engineer;AI+%26+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Software Engineer @ IIT Sfax | ML & Data Science Expert</h3>
+<h3 align="center">🎓 Software Engineer @ IIT Sfax | AI & Web Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mokhtar-bouchekoua-084267248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,15 +17,9 @@
 
 ---
 
-## 🚀 Introduction
+## 🚀 About Me
 
-Machine Learning Engineer with hands-on experience building **production-ready AI systems**. I specialize in **predictive analytics**, **computer vision**, and **LLM-powered applications**. Currently developing intelligent solutions at the intersection of **data science** and **real-world business problems**.
-
-At **MyPartner**, I built an **LLM-based forecasting module** for inventory optimization using RAG architecture and advanced NLP techniques. My **award-winning agricultural drone project** (🏆 Best PFE 2023) demonstrated expertise in **sensor data processing** and **predictive modeling** for precision agriculture.
-
-I don't just build models—I deploy them. From **YOLOv11-powered parking systems** to **financial health prediction dashboards**, my work bridges the gap between **theoretical ML** and **scalable production systems**.
-
-**What drives me:** Transforming raw data into actionable insights. Building intelligent systems that solve real problems. Pushing the boundaries of what's possible with machine learning.
+Versatile software engineer specializing in **AI/Machine Learning** and **Full Stack Web Development**. I approach problems with analytical rigor—breaking them down mathematically, understanding them deeply, then building production-ready solutions. My strength lies in bridging **intelligent systems** (deep learning, computer vision, NLP) with **scalable web architectures** (React, FastAPI, Laravel). Driven by the precision of mathematics and the impact of real-world applications, I aim to advance AI through both research and deployment.
 
 ---
 
@@ -52,7 +46,7 @@ Software development lifecycle • Quality assurance processes
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -60,79 +54,53 @@ Software development lifecycle • Quality assurance processes
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🧠 AI Specializations
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-**Core Competencies:**
-- 📊 **Data Science**: Statistical Analysis • Feature Engineering • Exploratory Data Analysis
-- 🧠 **Deep Learning**: CNNs • Transformers • Transfer Learning • Model Optimization
-- 🤖 **NLP & LLMs**: RAG Systems • Prompt Engineering • Text Classification • Sentiment Analysis
-- 👁️ **Computer Vision**: Object Detection (YOLO) • OCR • Image Segmentation
-- 📈 **Predictive Modeling**: Time Series Forecasting • Regression • Classification • Clustering
-- 🔬 **MLOps**: Model Deployment • API Integration • Performance Monitoring
+**Core Competencies:** Deep Learning • Computer Vision • NLP & LLMs • Predictive Modeling • Time Series Forecasting
 
-### 📊 Data Visualization & BI
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🌐 Web Development
+### 🌐 Web Development (Full Stack)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 💾 Databases & Cloud
+### 📊 Data & Visualization
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 💾 Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 Featured ML/AI Projects
+## 🏆 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 💊 [Paramedics BI Dashboard](https://github.com/mokhtar-bouchekoua/paramedics-bi-dashboard)
-**Predictive Financial Analytics System**
-
-ML-powered dashboard for cash flow forecasting & optimization
-- Proprietary health score algorithm
-- What-If scenario modeling
-- RAG-based AI assistant (Groq)
-- Time series prediction
-
-`Streamlit` `Scikit-learn` `Plotly` `LangChain`
+AI-powered financial analytics system  
+Health score algorithm • What-If modeling • RAG assistant  
+`Streamlit` `Scikit-learn` `LangChain`
 
 </td>
 <td width="50%">
 
 ### 🅿️ [FacPark - Smart Parking](https://github.com/mokhtar-bouchekoua/FacPark)
-**Computer Vision & NLP System**
-
-AI-powered parking management with real-time detection
-- YOLOv11 object detection (>95% accuracy)
-- Custom OCR for Tunisian plates
-- RAG chatbot for user queries
-- Real-time decision engine
-
-`PyTorch` `FastAPI` `OpenCV` `LangChain`
+Computer vision parking management  
+YOLOv11 detection • Custom OCR • RAG chatbot  
+`PyTorch` `FastAPI` `React`
 
 </td>
 </tr>
@@ -141,29 +109,18 @@ AI-powered parking management with real-time detection
 <td width="50%">
 
 ### 🚁 Smart Agricultural Drone
-**🏆 Best Final Year Project 2023**
-
-**IoT + ML for Precision Agriculture**
-- NPK soil sensor data processing
-- Predictive modeling for crop health
-- Real-time anomaly detection
-- Mobile analytics dashboard
-
-`Arduino` `Python` `TensorFlow` `Flutter`
+**🏆 Best Final Year Project 2023**  
+IoT + ML for precision agriculture  
+NPK sensors • Predictive modeling  
+`Arduino` `Python` `TensorFlow`
 
 </td>
 <td width="50%">
 
 ### 🤖 IoT Anomaly Detection
-**Deep Learning for Autonomous Systems**
-
-Real-time anomaly detection using transformers
-- Transformer-based architecture
-- MQTT streaming pipeline
-- Predictive maintenance algorithms
-- Angular monitoring dashboard
-
-`PyTorch` `FastAPI` `Angular` `Firebase`
+Real-time deep learning system  
+Transformer architecture • MQTT pipeline  
+`PyTorch` `FastAPI` `Angular`
 
 </td>
 </tr>
@@ -171,7 +128,7 @@ Real-time anomaly detection using transformers
 
 ---
 
-## 🎓 Certifications & Training
+## 🎓 Certifications
 
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -179,16 +136,6 @@ Real-time anomaly detection using transformers
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Professional Memberships:** 👥 IEEE (ISGIS & IIT)
-
----
-
-## 📈 Research Interests
-
-- 🧮 **Mathematical ML**: Optimization algorithms, loss functions, model interpretability
-- 🔬 **AI for Science**: Applying ML to scientific problems (agriculture, healthcare, IoT)
-- 📊 **Predictive Analytics**: Time series forecasting, anomaly detection, causal inference
-- 🤖 **LLM Applications**: RAG systems, prompt engineering, fine-tuning strategies
-- 👁️ **Computer Vision**: Object detection, OCR, real-time inference optimization
 
 ---
 
@@ -203,7 +150,7 @@ Real-time anomaly detection using transformers
   </a>
 </p>
 
-**Open to:** 💼 ML/Data Science positions • 🚀 Research collaborations • 📊 Consulting projects
+**Open to:** 💼 AI/ML Engineering positions • 🌐 Full Stack opportunities • 🔬 Research collaborations
 
 ---
 
@@ -218,6 +165,6 @@ Real-time anomaly detection using transformers
 
 **"Mathematics is the language in which God has written the universe."** — *Galileo Galilei*
 
-*In data science and machine learning, mathematics isn't just theory—it's the engine behind every prediction, every optimization, every breakthrough. From gradient descent to neural architectures, mathematical rigor transforms data into intelligence.* 🧮✨
+*In AI and data science, mathematical thinking isn't optional—it's fundamental. Every breakthrough, from gradient descent to transformer architectures, is built on mathematical foundations. Understanding the math means understanding the "why," not just the "how."* 🧮✨
 
 </div>
