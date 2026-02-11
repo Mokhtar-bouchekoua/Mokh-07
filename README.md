@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mokhtar+Bouchekoua;Software+Engineering+Student;AI+%26+IoT+Specialist;Full+Stack+Developer;Computer+Vision+Engineer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Ingénieur Génie Logiciel @ IIT Sfax | AI & IoT Expert</h3>
+<h3 align="center">🎓 Software Engineer @ IIT Sfax | AI & IoT Expert</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mokhtar-bouchekoua-084267248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,19 +20,19 @@
 
 ## 🚀 About Me
 
-Étudiant ingénieur en **Génie Logiciel** passionné par l'**Intelligence Artificielle**, l'**IoT** et le **développement Full Stack**. Je me spécialise dans la création de solutions innovantes combinant **Computer Vision**, **LLMs** et **architectures distribuées**.
+Software Engineering student passionate about **Artificial Intelligence**, **IoT**, and **Full Stack Development**. I specialize in creating innovative solutions combining **Computer Vision**, **LLMs**, and **distributed architectures**.
 
-### 🎯 Focus actuel
-- 🤖 **IA Générative** : Développement d'applications basées sur les LLMs (RAG, Agents)
-- 🚗 **Computer Vision** : Systèmes de reconnaissance de plaques et détection d'anomalies
-- 📊 **Business Intelligence** : Dashboards décisionnels avec analyse prédictive
-- 🌐 **IoT & Edge Computing** : Systèmes temps réel pour véhicules autonomes
+### 🎯 Current Focus
+- 🤖 **Generative AI**: Building LLM-powered applications (RAG, Agents)
+- 🚗 **Computer Vision**: License plate recognition and anomaly detection systems
+- 📊 **Business Intelligence**: Decision dashboards with predictive analytics
+- 🌐 **IoT & Edge Computing**: Real-time systems for autonomous vehicles
 
 ### 🏆 Achievements
-- 🥇 **Prix du Meilleur PFE 2023** - Drone agricole intelligent
-- 👥 **Membre IEEE** (ISGIS & IIT)
-- 📜 **Certifications** : CCNA, AWS, Python, Arduino
-- 💼 **Stage MyPartner** : Module IA pour gestion de stock ERP
+- 🥇 **Best Final Year Project Award 2023** - Smart Agricultural Drone
+- 👥 **IEEE Member** (ISGIS & IIT)
+- 📜 **Certifications**: CCNA, AWS, Python, Arduino
+- 💼 **MyPartner Internship**: AI module for ERP stock management
 
 ### 📍 Location
 Sfax, Tunisia 🇹🇳
@@ -42,56 +42,56 @@ Sfax, Tunisia 🇹🇳
 ## 💼 Professional Experience
 
 ### 🔹 AI Developer Intern @ MyPartner
-**Juillet - Août 2025** | Sfax, Tunisia
+**July - August 2025** | Sfax, Tunisia
 
-Développement d'un **module d'IA basé sur les LLMs** pour la prévision et gestion de stock dans l'ERP Paramedics.
+Development of an **LLM-based AI module** for stock forecasting and management in Paramedics ERP.
 
-**Réalisations :**
-- ✅ Automatisation de la gestion de stock avec des modèles de langage (GPT, Groq)
-- ✅ Intégration d'une **API FastAPI** connectée à l'ERP
-- ✅ Architecture **RAG** pour requêtes contextuelles sur données métier
-- ✅ Dashboard BI avec prédictions de stock
+**Key Achievements:**
+- ✅ Automated stock management using language models (GPT, Groq)
+- ✅ Integrated **FastAPI backend** connected to ERP system
+- ✅ **RAG architecture** for contextual queries on business data
+- ✅ BI dashboard with stock predictions
 
-**Tech Stack :** `Python` `FastAPI` `React` `LangChain` `Groq` `Streamlit` `Plotly`
+**Tech Stack:** `Python` `FastAPI` `React` `LangChain` `Groq` `Streamlit` `Plotly`
 
 ---
 
 ### 🔹 Full Stack Developer Intern @ Flash Marketing Digital
-**Juin - Juillet 2024** | Sfax, Tunisia
+**June - July 2024** | Sfax, Tunisia
 
-Création du site e-commerce **"Allo Fruit"** avec interface admin et gestion de stock.
+Created **"Allo Fruit"** e-commerce website with admin interface and inventory management.
 
-**Réalisations :**
-- ✅ Backend Laravel complet (CRUD, commandes, stock, authentification)
-- ✅ Tableau de bord React pour suivi des ventes en temps réel
-- ✅ Système de paiement intégré
-- ✅ Dashboard analytics avec graphiques dynamiques
+**Key Achievements:**
+- ✅ Complete Laravel backend (CRUD, orders, stock, authentication)
+- ✅ React dashboard for real-time sales tracking
+- ✅ Integrated payment system
+- ✅ Analytics dashboard with dynamic charts
 
-**Tech Stack :** `Laravel` `React` `MySQL` `Tailwind CSS` `Chart.js`
+**Tech Stack:** `Laravel` `React` `MySQL` `Tailwind CSS` `Chart.js`
 
 ---
 
-### 🔹 Embedded Systems Intern @ Clinisys
-**Juin - Juillet 2022** | Sfax, Tunisia
+### 🔹 Embedded Systems Observer @ Clinisys
+**June - July 2022** | Sfax, Tunisia
 
-Stage d'observation : découverte du cycle complet de développement logiciel.
-- Observation des processus de QA et gestion de projet
-- Participation aux réunions techniques d'équipe
+Observational internship: discovered the complete software development cycle.
+- Observed QA processes and project management
+- Participated in technical team meetings
 
 ---
 
 ## 🎓 Education
 
-### 🏫 Institut International de Technologie (IIT)
-**Diplôme d'Ingénieur en Génie Informatique** | 2023 - Présent  
+### 🏫 International Institute of Technology (IIT)
+**Software Engineering Degree** | 2023 - Present  
 Sfax, Tunisia
 
-**Spécialisation :** Intelligence Artificielle, IoT, Computer Vision
+**Specialization:** Artificial Intelligence, IoT, Computer Vision
 
 ---
 
-### 🏫 Institut Supérieur de Gestion Industrielle (ISGI)
-**Licence en Électronique, Électrotechnique et Automatique** | 2023  
+### 🏫 Higher Institute of Industrial Management (ISGI)
+**Bachelor's in Electronics, Electrical Engineering & Automation** | 2023  
 Sfax, Tunisia
 
 ---
@@ -115,11 +115,11 @@ Sfax, Tunisia
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Spécialisations :**
-- 🧠 **Deep Learning** : CNNs, Transformers, YOLO, Transfer Learning
-- 🤖 **LLMs & RAG** : GPT, Groq, Llama, LangChain, FAISS, Vector DBs
-- 👁️ **Computer Vision** : Object Detection, OCR, Image Classification
-- 📊 **Machine Learning** : Regression, Classification, Clustering
+**Specializations:**
+- 🧠 **Deep Learning**: CNNs, Transformers, YOLO, Transfer Learning
+- 🤖 **LLMs & RAG**: GPT, Groq, Llama, LangChain, FAISS, Vector DBs
+- 👁️ **Computer Vision**: Object Detection, OCR, Image Classification
+- 📊 **Machine Learning**: Regression, Classification, Clustering
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -133,7 +133,7 @@ Sfax, Tunisia
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Databases & Tools
+### Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -154,15 +154,15 @@ Sfax, Tunisia
 <td width="50%">
 
 ### 🅿️ [FacPark - Smart Parking System](https://github.com/Mokh-07/FacPark)
-Système intelligent de gestion de parking universitaire avec reconnaissance de plaques par IA.
+Intelligent university parking management system with AI-powered license plate recognition.
 
-**Highlights :**
-- YOLOv11 pour détection de plaques (>95% précision)
-- OCR LPRNet pour plaques tunisiennes
-- Chatbot RAG pour assistance 24/7
-- Dashboard admin temps réel
+**Highlights:**
+- YOLOv11 for plate detection (>95% accuracy)
+- LPRNet OCR for Tunisian plates
+- RAG chatbot for 24/7 assistance
+- Real-time admin dashboard
 
-**Stack :** `Python` `FastAPI` `React` `YOLOv11` `LangChain` `MySQL`
+**Stack:** `Python` `FastAPI` `React` `YOLOv11` `LangChain` `MySQL`
 
 ![Stars](https://img.shields.io/github/stars/Mokh-07/FacPark?style=social)
 
@@ -170,15 +170,15 @@ Système intelligent de gestion de parking universitaire avec reconnaissance de 
 <td width="50%">
 
 ### 💊 [Paramedics BI Dashboard](https://github.com/Mokh-07/paramedics-bi-dashboard)
-Dashboard BI avec IA pour analyse financière et optimisation du recouvrement.
+AI-powered BI dashboard for financial analysis and receivables optimization.
 
-**Highlights :**
-- Score santé financière (algorithme propriétaire)
-- Moteur de simulation What-If
-- Assistant IA (Groq + RAG)
-- Architecture Clean DDD
+**Highlights:**
+- Financial health score (proprietary algorithm)
+- What-If simulation engine
+- AI Assistant (Groq + RAG)
+- Clean Architecture DDD
 
-**Stack :** `Streamlit` `Groq` `Plotly` `LangChain` `Python`
+**Stack:** `Streamlit` `Groq` `Plotly` `LangChain` `Python`
 
 ![Stars](https://img.shields.io/github/stars/Mokh-07/paramedics-bi-dashboard?style=social)
 
@@ -189,31 +189,31 @@ Dashboard BI avec IA pour analyse financière et optimisation du recouvrement.
 <td width="50%">
 
 ### 🚗 SmartALPR - Tunisian License Plate Recognition
-Système IA pour lecture automatique de plaques tunisiennes via Computer Vision, OCR et LLM/RAG.
+AI system for automatic reading of Tunisian plates via Computer Vision, OCR and LLM/RAG.
 
-**Highlights :**
-- YOLOv8 pour détection
-- EasyOCR personnalisé (arabe + latin)
-- RAG pour recherche contextuelle
-- API FastAPI temps réel
+**Highlights:**
+- YOLOv8 for detection
+- Custom EasyOCR (Arabic + Latin)
+- RAG for contextual search
+- Real-time FastAPI
 
-**Stack :** `YOLOv8` `EasyOCR` `FastAPI` `LangChain` `Python`
+**Stack:** `YOLOv8` `EasyOCR` `FastAPI` `LangChain` `Python`
 
 </td>
 <td width="50%">
 
 ### 🤖 IoT Anomaly Detection System
-**Projet de Fin d'Année (PFA) - En cours**
+**Final Year Project (PFA) - Ongoing**
 
-Système de détection d'anomalies IoT pour véhicules autonomes en temps réel.
+Real-time IoT anomaly detection system for autonomous vehicles.
 
-**Highlights :**
-- Pipeline de détection via Transformers
-- Backend FastAPI avec MQTT
-- Dashboard Angular temps réel
-- Firebase pour stockage distribué
+**Highlights:**
+- Detection pipeline via Transformers
+- FastAPI backend with MQTT
+- Real-time Angular dashboard
+- Firebase for distributed storage
 
-**Stack :** `FastAPI` `Angular` `MQTT` `Firebase` `PyTorch`
+**Stack:** `FastAPI` `Angular` `MQTT` `Firebase` `PyTorch`
 
 </td>
 </tr>
@@ -221,42 +221,42 @@ Système de détection d'anomalies IoT pour véhicules autonomes en temps réel.
 <tr>
 <td width="50%">
 
-### 🚁 Drone Agricole Intelligent
-**🏆 Prix du Meilleur PFE 2023**
+### 🚁 Smart Agricultural Drone
+**🏆 Best Final Year Project Award 2023**
 
-Drone avec capteur NPK 7-en-1 et app Android d'analyse des sols.
+Drone with NPK 7-in-1 sensor and Android app for soil analysis.
 
-**Highlights :**
-- Acquisition données capteurs Arduino
-- Traitement temps réel
-- Interface Android visualisation
-- Système d'alertes automatique
+**Highlights:**
+- Arduino sensor data acquisition
+- Real-time processing
+- Android visualization interface
+- Automatic alert system
 
-**Stack :** `Arduino` `Android Studio` `Flutter` `C`
+**Stack:** `Arduino` `Android Studio` `Flutter` `C`
 
 </td>
 <td width="50%">
 
 ### 🛒 Allo Fruit - E-commerce Platform
-Plateforme de vente en ligne avec gestion complète.
+Complete online sales platform with full management.
 
-**Highlights :**
-- Backend Laravel (CRUD, commandes)
-- Frontend React responsive
-- Système de paiement intégré
-- Dashboard analytics
+**Highlights:**
+- Laravel backend (CRUD, orders)
+- Responsive React frontend
+- Integrated payment system
+- Analytics dashboard
 
-**Stack :** `Laravel` `React` `MySQL` `Tailwind CSS`
+**Stack:** `Laravel` `React` `MySQL` `Tailwind CSS`
 
 </td>
 </tr>
 </table>
 
-### 📦 Autres Projets
+### 📦 Other Projects
 
-- **📊 BI Dashboard** - Tableaux de bord décisionnels avec AdventureWorks
-- **🎨 JavaFX Drawing App** - Application de dessin et manipulation de formes
-- **📚 E-learning Platform** - Gestion des cours et utilisateurs (ASP.NET + React)
+- **📊 BI Dashboard** - Decision dashboards with AdventureWorks
+- **🎨 JavaFX Drawing App** - Drawing and shape manipulation application
+- **📚 E-learning Platform** - Course and user management (ASP.NET + React)
 - **💼 Various Full Stack Projects** - Laravel, React, Angular, ASP.NET
 
 ---
@@ -375,7 +375,7 @@ mindmap
 
 ## 🤝 Let's Connect!
 
-Je suis toujours ouvert à des projets innovants, des collaborations et des opportunités professionnelles dans les domaines de l'**IA**, l'**IoT**, et le **développement Full Stack**.
+I'm always open to innovative projects, collaborations, and professional opportunities in **AI**, **IoT**, and **Full Stack Development**.
 
 <p align="center">
   <a href="https://linkedin.com/in/mokhtar-bouchekoua-084267248">
