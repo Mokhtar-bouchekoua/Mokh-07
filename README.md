@@ -259,23 +259,6 @@ Decision dashboards with advanced analytics.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokhtar-bouchekoua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokhtar-bouchekoua&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtar-bouchekoua&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mokhtar-bouchekoua&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ## 🎓 Certifications & Training
 
 <table>
