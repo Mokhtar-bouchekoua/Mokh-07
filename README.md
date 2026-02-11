@@ -288,25 +288,6 @@ Embedded Systems
 
 ---
 
-## 📈 Current Learning Path
-
-```python
-learning_roadmap = {
-    "2026_Q1": [
-        "Advanced RAG Techniques (Agentic RAG, Multi-Query)",
-        "MLOps & Model Deployment (MLflow, Kubernetes)",
-        "Computer Vision Advanced (Segmentation, 3D Vision)"
-    ],
-    "2026_Q2": [
-        "Edge AI & TinyML (TensorFlow Lite, ONNX)",
-        "Cloud Architecture (AWS/GCP Certified)",
-        "Distributed Systems & Microservices"
-    ],
-    "next": "Open to new challenges and collaborations!"
-}
-```
-
----
 
 ## 💡 Skills Summary
 
